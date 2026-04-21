@@ -1,4 +1,4 @@
-# Merhaba Ben Kadir Yılmaz👋
+# Merhaba, ben Kadir Yılmaz👋
 .NET developer olmak için çalışıyorum ve fırsat buldukça DevOps teknolojilerinde de kendimi geliştiriyorum.
 
 ---
