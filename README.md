@@ -11,5 +11,9 @@
 
 ---
 
-Şu anki amacım GameGaraj mikroservis projemi sektör standartlarına yaklaştırabilmek.
+## 🚀 Aktif Olarak Geliştirdiğim Kişisel Proje
+
+🌐 **[DefenceDB](https://defencedb.runasp.net/)**
+
+Savunma sanayii platformları, hava araçları, radarlar ve füze sistemleri için geliştirdiğim katalog uygulaması.
 
