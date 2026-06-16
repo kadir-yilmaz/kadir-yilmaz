@@ -1,6 +1,5 @@
 # Merhaba, ben Kadir Yılmaz👋
-.NET developer olmak için çalışıyorum ve fırsat buldukça DevOps teknolojilerinde de kendimi geliştiriyorum.
-
+.NET developer olmak için çalışıyorum; aynı zamanda eski bilgisayarımı Ubuntu Server, Dokploy, K3s cluster ve Cloudflare Tunnel ile home server olarak yapılandırarak DevOps tarafında kendimi geliştiriyor, CI/CD pipeline, containerization, deployment ve orkestrasyon süreçleri üzerine aktif olarak çalışıyorum.
 ---
 
 ## 🛠️ Languages and Tools
@@ -13,19 +12,23 @@
 
 ## 🚀 Aktif Olarak Geliştirdiğim Kişisel Projeler
 
+### 🌐 GameGaraj
+
+Mikroservis mimarisi, RabbitMQ tabanlı mesajlaşma, container yapıları ve K3s cluster ortamında canlıya alma süreçleriyle geliştirdiğim kapsamlı e-ticaret projesi.
+
+🔗 [gamegaraj.kadiryilmaz.online](https://gamegaraj.kadiryilmaz.online/)
+
 ### 🌐 DefenceDB
 
 Savunma sanayii platformları, hava araçları, radarlar ve füze sistemleri için geliştirdiğim katalog ve bilgi platformu.
 
-🔗 https://defencedb.runasp.net/
+🔗 [defencedb.kadiryilmaz.online](https://defencedb.kadiryilmaz.online/)
 
 ### 🌐 ECommerce
 
 Modern yazılım mimarileri ve güncel teknolojiler kullanılarak geliştirilmiş tam kapsamlı (Full-Stack) e-ticaret uygulaması.
 
-🔗 https://kadir.infinityfreeapp.com/
-
-Bunların yanı sıra, mikroservis mimarisi, mesajlaşma sistemleri ve konteyner orkestrasyonu konularında deneyim kazanmak amacıyla **GameGaraj** projesini aktif olarak geliştirmekteyim.
+🔗 [ecommerce.kadiryilmaz.online](https://ecommerce.kadiryilmaz.online/)
 
 ---
 
