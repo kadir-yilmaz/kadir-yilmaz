@@ -18,11 +18,6 @@ Mikroservis mimarisi, RabbitMQ tabanlı mesajlaşma, container yapıları ve K3s
 
 🔗 [gamegaraj.kadiryilmaz.online](https://gamegaraj.kadiryilmaz.online/)
 
-### 🌐 DefenceDB
-
-Savunma sanayii platformları, hava araçları, radarlar ve füze sistemleri için geliştirdiğim katalog ve bilgi platformu.
-
-🔗 [defencedb.kadiryilmaz.online](https://defencedb.kadiryilmaz.online/)
 
 ### 🌐 ECommerce
 
