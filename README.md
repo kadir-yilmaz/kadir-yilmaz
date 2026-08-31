@@ -5,24 +5,18 @@
 ## Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,docker,elasticsearch,electron,kubernetes,mongodb,mysql,postgres,postman,rabbitmq,redis,angular,react,nextjs,bootstrap,js,ts&perline=9" />
+  <img src="https://skillicons.dev/icons?i=dotnet,go,cs,python,django,rabbitmq,redis,postgres,mongodb,elasticsearch,react,nextjs,docker,kubernetes,jenkins,prometheus,grafana&perline=9" />
 </p>
+
 
 ---
 
-## Aktif Olarak Geliştirdiğim Kişisel Projeler
+## Aktif Olarak Geliştirdiğim Proje
 
 ### GameGaraj
 
 Mikroservis mimarisi, RabbitMQ tabanlı mesajlaşma, container yapıları ve K3s cluster ortamında canlıya alma süreçleriyle geliştirdiğim kapsamlı e-ticaret projesi.
 
 🔗 [gamegaraj.kadiryilmaz.online](https://gamegaraj.kadiryilmaz.online/)
-
-
-### ECommerce
-
-Modern yazılım mimarileri ve güncel teknolojiler kullanılarak geliştirilmiş tam kapsamlı (Full-Stack) e-ticaret uygulaması.
-
-🔗 [ecommerce.kadiryilmaz.online](https://ecommerce.kadiryilmaz.online/)
 
 ---
